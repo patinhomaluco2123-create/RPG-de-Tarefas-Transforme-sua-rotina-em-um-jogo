@@ -119,10 +119,10 @@ Ranking pessoal
 
 Versão executável (.exe)
 
-📜 Licença
-
-Uso pessoal e educacional.
-
 💡 Não é apenas um organizador de tarefas.
 É um RPG onde o personagem é você.
 
+## 📜 Licença
+
+Este projeto é para uso pessoal e educacional.
+Uso comercial e redistribuição não são permitidos.
